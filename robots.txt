@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://strelok899.github.io/IMSF_Race_Results/sitemap.xml

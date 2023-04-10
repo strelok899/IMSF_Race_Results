@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "IMSF_RESULTS",
+    "description": "",
+    "home_page_url": "https://strelok899.github.io/IMSF_Race_Results",
+    "feed_url": "https://strelok899.github.io/IMSF_Race_Results/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "imsf"
+    },
+    "items": [
+        {
+            "id": "https://strelok899.github.io/IMSF_Race_Results/imsf-superbike-2023-rd1-day-2-motorcity-supersport-300.html",
+            "url": "https://strelok899.github.io/IMSF_Race_Results/imsf-superbike-2023-rd1-day-2-motorcity-supersport-300.html",
+            "title": "IMSF superbike 2023 RD1 day 2 Motorcity SuperSport 300",
+            "summary": "IMSF superbike 2023 RD1 day 2 Motor city Results of Supersport 300 +Hooligan - Race 2 Pos No. Name Class&hellip;",
+            "content_html": "<div>\n<div class=\"headerbig\">IMSF superbike 2023 RD1 day 2 Motor city</div>\n<div class=\"headerbottom\"> </div>\n<div class=\"headersmall\">Results of Supersport 300 +Hooligan - Race 2</div>\n<br><br>\n<table class=\"points\" cellspacing=\"0 px\">\n<tbody>\n<tr class=\"header\">\n<th class=\"column\">Pos</th>\n<th class=\"column\">No.</th>\n<th class=\"column\">Name</th>\n<th class=\"column\">Class</th>\n<th class=\"column\">Laps</th>\n<th class=\"column\">Total Tm</th>\n<th class=\"column\">Diff</th>\n<th class=\"column\">Gap</th>\n<th class=\"column\">Points</th>\n<th class=\"column\">Best Tm</th>\n<th class=\"column\">Avg Tm</th>\n<th class=\"column\">Transponder</th>\n</tr>\n<tr>\n<td class=\"s1l\">1</td>\n<td class=\"s1r\">99</td>\n<td class=\"s1l\">Isaac Cohen</td>\n<td class=\"s1l\">SBK 300</td>\n<td class=\"s1r\">18</td>\n<td class=\"s1r\">19:58.500</td>\n<td class=\"s1r\"> </td>\n<td class=\"s1r\"> </td>\n<td class=\"s1r\">25</td>\n<td class=\"s1r\">1:03.198</td>\n<td class=\"s1l\">1:06.145</td>\n<td class=\"s1r\">12963742</td>\n</tr>\n<tr>\n<td class=\"s1l\">2</td>\n<td class=\"s1r\">7</td>\n<td class=\"s1l\">Nisim Halamish</td>\n<td class=\"s1l\">SBK 300</td>\n<td class=\"s1r\">18</td>\n<td class=\"s1r\">20:01.667</td>\n<td class=\"s1r\">3.167</td>\n<td class=\"s1r\">3.167</td>\n<td class=\"s1r\">20</td>\n<td class=\"s1r\">1:05.263</td>\n<td class=\"s1l\">1:06.311</td>\n<td class=\"s1r\">10165988</td>\n</tr>\n<tr>\n<td class=\"s1l\">3</td>\n<td class=\"s1r\">58</td>\n<td class=\"s1l\">Liav Torjeman</td>\n<td class=\"s1l\">SBK 300</td>\n<td class=\"s1r\">18</td>\n<td class=\"s1r\">20:03.303</td>\n<td class=\"s1r\">4.803</td>\n<td class=\"s1r\">1.636</td>\n<td class=\"s1r\">16</td>\n<td class=\"s1r\">1:05.172</td>\n<td class=\"s1l\">1:06.374</td>\n<td class=\"s1r\">11473062</td>\n</tr>\n<tr>\n<td class=\"s1l\">4</td>\n<td class=\"s1r\">10</td>\n<td class=\"s1l\">Shahar Rabinowitz</td>\n<td class=\"s1l\">SBK 300</td>\n<td class=\"s1r\">17</td>\n<td class=\"s1r\">19:04.742</td>\n<td class=\"s1r\">1 Lap</td>\n<td class=\"s1r\">1 Lap</td>\n<td class=\"s1r\">13</td>\n<td class=\"s1r\">1:05.665</td>\n<td class=\"s1l\">1:06.857</td>\n<td class=\"s1r\">14221448</td>\n</tr>\n</tbody>\n</table>\n<div class=\"footer\">IMSF - Israel Motorsport Federation</div>\n</div>\n<div class=\"save\">Generated on 10/04/2023 11:07</div>",
+            "author": {
+                "name": "imsf"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-10T13:34:33+03:00",
+            "date_modified": "2023-04-10T13:34:33+03:00"
+        },
+        {
+            "id": "https://strelok899.github.io/IMSF_Race_Results/imsf-superbike-2023-rd1-day-2-motor-city.html",
+            "url": "https://strelok899.github.io/IMSF_Race_Results/imsf-superbike-2023-rd1-day-2-motor-city.html",
+            "title": "IMSF superbike 2023 RD1 day 2 Motorcity Hooligan",
+            "summary": "IMSF superbike 2023 RD1 day 2 Motor city Results of Supersport 300 +Hooligan - Race 2 Pos No. Name Class&hellip;",
+            "content_html": "<div>\n<div class=\"headerbig\">IMSF superbike 2023 RD1 day 2 Motor city</div>\n<div class=\"headerbottom\"> </div>\n<div class=\"headersmall\">Results of Supersport 300 +Hooligan - Race 2</div>\n<br><br>\n<table class=\"points\" cellspacing=\"0 px\">\n<tbody>\n<tr class=\"header\">\n<th class=\"column\">Pos</th>\n<th class=\"column\">No.</th>\n<th class=\"column\">Name</th>\n<th class=\"column\">Class</th>\n<th class=\"column\">Laps</th>\n<th class=\"column\">Total Tm</th>\n<th class=\"column\">Diff</th>\n<th class=\"column\">Gap</th>\n<th class=\"column\">Points</th>\n<th class=\"column\">Best Tm</th>\n<th class=\"column\">Avg Tm</th>\n<th class=\"column\">Transponder</th>\n</tr>\n<tr>\n<td class=\"s1l\">1</td>\n<td class=\"s1r\">32</td>\n<td class=\"s1l\">David Alfandari</td>\n<td class=\"s1l\">Hooligan</td>\n<td class=\"s1r\">18</td>\n<td class=\"s1r\">19:02.568</td>\n<td class=\"s1r\"> </td>\n<td class=\"s1r\"> </td>\n<td class=\"s1r\">25</td>\n<td class=\"s1r\">1:01.677</td>\n<td class=\"s1l\">1:03.059</td>\n<td class=\"s1r\">14859916</td>\n</tr>\n<tr>\n<td class=\"s1l\">2</td>\n<td class=\"s1r\">92</td>\n<td class=\"s1l\">Mairi Jonathan</td>\n<td class=\"s1l\">Hooligan</td>\n<td class=\"s1r\">18</td>\n<td class=\"s1r\">19:05.987</td>\n<td class=\"s1r\">3.419</td>\n<td class=\"s1r\">3.419</td>\n<td class=\"s1r\">20</td>\n<td class=\"s1r\">1:02.413</td>\n<td class=\"s1l\">1:03.249</td>\n<td class=\"s1r\">13842180</td>\n</tr>\n<tr>\n<td class=\"s1l\">3</td>\n<td class=\"s1r\">35</td>\n<td class=\"s1l\">Gilad Nir</td>\n<td class=\"s1l\">Hooligan</td>\n<td class=\"s1r\">18</td>\n<td class=\"s1r\">20:00.103</td>\n<td class=\"s1r\">57.535</td>\n<td class=\"s1r\">54.116</td>\n<td class=\"s1r\">16</td>\n<td class=\"s1r\">1:05.220</td>\n<td class=\"s1l\">1:06.255</td>\n<td class=\"s1r\">13524617</td>\n</tr>\n<tr>\n<td class=\"s1l\">4</td>\n<td class=\"s1r\">93</td>\n<td class=\"s1l\">Joseph camera</td>\n<td class=\"s1l\">Hooligan</td>\n<td class=\"s1r\">17</td>\n<td class=\"s1r\">19:03.282</td>\n<td class=\"s1r\">1 Lap</td>\n<td class=\"s1r\">1 Lap</td>\n<td class=\"s1r\">13</td>\n<td class=\"s1r\">1:05.572</td>\n<td class=\"s1l\">1:06.743</td>\n<td class=\"s1r\">13616651</td>\n</tr>\n</tbody>\n</table>\n<div class=\"footer\">IMSF - Israel Motorsport Federation</div>\n</div>\n<div class=\"save\">Generated on 10/04/2023 11:07</div>",
+            "author": {
+                "name": "imsf"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-10T13:32:05+03:00",
+            "date_modified": "2023-04-10T13:34:08+03:00"
+        }
+    ]
+}
